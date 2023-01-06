@@ -1,0 +1,40 @@
+.first {
+    margin-top: 5rem;
+}
+
+.headline {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.emailbtn {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.btn {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.title {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.confirmation {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.success {
+    background-color: green;
+    color: white;
+}
+
+.false {
+    background-color: red;
+    color: white;
+}
